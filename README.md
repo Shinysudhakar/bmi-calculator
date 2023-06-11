@@ -61,6 +61,7 @@ function BMICalculator() {
 }
 
 export default BMICalculator;
+
 OUTPUT:
 
 ![image](https://github.com/Shinysudhakar/bmi-calculator/assets/127575325/590b045e-532b-4e49-8231-aa3d1991caf6)
