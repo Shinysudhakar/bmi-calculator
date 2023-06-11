@@ -1,4 +1,4 @@
-# bmi-calculator
+
 
 EXP 08 - CREATE A BMI CALCULATOR
 
