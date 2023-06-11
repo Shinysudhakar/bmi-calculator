@@ -16,6 +16,7 @@ Define the BMICalculator component
 Open your App.js file.Import the BMICalculator component
 Use the BMICalculator component in the main App component
 Run your React.js development server to see the BMI calculator in action.
+
 PROGRAM:
 java
 
