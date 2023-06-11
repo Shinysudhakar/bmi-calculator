@@ -1,23 +1,26 @@
+# EXP 08 - CREATE A BMI CALCULATOR
 
+## AIM:
 
-EXP 08 - CREATE A BMI CALCULATOR
-
-
-AIM:
 To create a BMI calculator using react js.
 
-SOFTWARE:
+## SOFTWARE:
+
 Visual Studio Code
 
-ALGORITHM
-Create a new project using Create React App or your preferred method. Set up the necessary dependencies.
-In your components directory, create a new file called "BMICalculator.js". Import the necessary React dependencies.
-Define the BMICalculator component
-Open your App.js file.Import the BMICalculator component
-Use the BMICalculator component in the main App component
-Run your React.js development server to see the BMI calculator in action.
+## ALGORITHM
 
-PROGRAM:
+1) Create a new project using Create React App or your preferred method.
+Set up the necessary dependencies.
+2) In your components directory, create a new file called "BMICalculator.js".
+Import the necessary React dependencies.
+3) Define the BMICalculator component
+4) Open your App.js file.Import the BMICalculator component
+5) Use the BMICalculator component in the main App component
+6) Run your React.js development server to see the BMI calculator in action.
+
+## PROGRAM:
+```
 java
 
 import React, { useState } from 'react';
@@ -61,15 +64,18 @@ function BMICalculator() {
 }
 
 export default BMICalculator;
+```
 
-OUTPUT:
+## OUTPUT:
 
-![image](https://github.com/Shinysudhakar/bmi-calculator/assets/127575325/590b045e-532b-4e49-8231-aa3d1991caf6)
+<img width="364" alt="image" src="https://github.com/Monisha-11/EXP-08---MODERN-WEB/assets/93427240/164e0391-b54e-4698-bf8b-5284be612214">
 
-After the calculation
+### After the calculation
 
-![image](https://github.com/Shinysudhakar/bmi-calculator/assets/127575325/9e45ac12-b836-408c-ba78-43a14c44f1e0)
+<img width="345" alt="image" src="https://github.com/Monisha-11/EXP-08---MODERN-WEB/assets/93427240/237e6d98-f198-4791-ad2c-e679f963fbb2">
 
 
-RESULT:
+
+## RESULT:
+
 Thus the BMI calculator is created.
